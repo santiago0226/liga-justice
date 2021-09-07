@@ -3,12 +3,6 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 
-## Notas
-Pueden hacer lo que quieran...
-"# liga-justice" 
+##estos cambios son desde github
 
-### Actualizado desde github !!
-mensaje actualizado desde guthub
-
-#### actualizado en vscodelocal
-jeje
+## estos desde git repositorio local
